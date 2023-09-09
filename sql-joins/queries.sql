@@ -1,3 +1,4 @@
+--This file contains all the exercises required using the database created inside data.sql
 -- write your queries here
 --Write the following SQL commands to produce the necessary output
 
